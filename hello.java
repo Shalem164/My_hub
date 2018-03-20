@@ -7,7 +7,7 @@ public class Cred {
 		System.out.println(cred[0]);
 		System.out.println(cred[1]);
 	}
-
+	//hiiiii
 	public static String credn() 
 	{
 		String usr = "username";
@@ -15,4 +15,14 @@ public class Cred {
 			
 		return usr+"-"+pass;
 	}	
+	
+	
+	public static String creddddddddn() 
+	{
+		String userrrrrr = "username";
+		String pass = "password";
+			
+		return usr+"-"+pass;
+	}	
+	
 }
